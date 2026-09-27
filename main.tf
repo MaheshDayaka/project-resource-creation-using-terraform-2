@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "demo" {
-  bucket = "mahesh-demo-bucket-12345"
+  bucket = "maheshdayaka-demo-bucket-12345"
 }
 
 resource "aws_dynamodb_table" "terraform_locks" {
